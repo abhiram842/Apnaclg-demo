@@ -1,4 +1,4 @@
 # Apnaclg-demo
 My first repo
 <br>
-Author - abhiram
+Author - Abhiram Jogi
